@@ -1,2 +1,2 @@
 # Progi_lab
-xx
+Ide lesznek feltöltve a progi házi fájljai
